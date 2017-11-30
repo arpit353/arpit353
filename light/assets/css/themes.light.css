@@ -96,7 +96,7 @@ hr,
 }
 
 .t-title__first-word {
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-weight: 300;
 }
 
@@ -195,7 +195,7 @@ a .fa,
   .t-section,
   .t-section__header,
   .t-section--header .t-section__header {
-    background: #fbfbfb;
+    background: #ebebeb;
   }
   .t-section__content {
     background: #fff;
@@ -203,7 +203,7 @@ a .fa,
   /* Even Sections */
   .t-section:nth-child(even),
   .t-section:nth-child(even) .t-section__header {
-    background: #f8f8f8;
+    background: #f2f2f2;
   }
   .t-section:nth-child(even) .t-section__content {
     background: #fcfcfc;
